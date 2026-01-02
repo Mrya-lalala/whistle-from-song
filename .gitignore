@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+whistle-ai/
+
+# Audio files
+*.wav
+*.mp3
+
+# Mac junk
+.DS_Store
